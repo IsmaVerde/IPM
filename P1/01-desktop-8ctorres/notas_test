@@ -1,0 +1,20 @@
+histories para el test
+
+al iniciar texto de -> seleccione intervalo *done
+
+al seleccionar intervalo 3M texto de -> para el intervalo 3M, un ejemplo seria: *done
+
+al seleccionar asc -> radiobutton nombre de asc
+
+al seleccionar intervalo 3M  asc que las canciones sean las de ese intervalo (canciones mostradas que tengan el valor de ese intervalo: cumpleaños feliz(fav), Rudolph the red-nosed reindeer, Silent night (Villancico), Frere Jacques, Non, je ne regrette rien (Edith Piaf), El cascanueces - Marche (Tchaikosky))
+
+al seleccionar intervalo 3M  asc que las canciones de ese intervalo favoritas estén en
+la lista de favoritas (lista de favoritas -> corazón, en este caso, cumpleaños feliz)
+
+al seleccionar intervalo 3M  que las notas de ejemplo sean del intervalo seleccionado. (Do-Mi)
+
+
+separar intervalo de asc/desc o toda la comprobación junta?
+separado
+
+./atspi_dump +implem. para saber los roles de los widgets una vez lanzada
